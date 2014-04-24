@@ -1,5 +1,9 @@
-copas 
+===============
+copas test saja
+===============
+===========================================================================
 source : http://www.script-tutorials.com/how-to-parse-web-pages-using-xpath/
+===========================================================================
 
 <?php
 $sUrl = 'http://news.google.com/news/section?pz=1&cf=all&topic=t&ict=ln';
