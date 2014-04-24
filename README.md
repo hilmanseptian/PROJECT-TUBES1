@@ -3,14 +3,63 @@ PROJECT-TUBES1
 
 Tugas Besar 1 Layanan Web
 
-PHP HTML Parser
-===============
+PHP::Interpreter version 1.0
+============================
 
-A simple and efficient DOMDocument based PHP HTML and XML Parser. It accepts both css selector and xpath queries to search the document and handles malformed HTML as well.
+This module provides a way to load a PHP interpreter into your Perl programs.
+The PHP interpreter then automagically has access to all of the modules and
+variables loaded into Perl. So PHP executed from Perl can use any Perl
+modules.
 
-Example:
-```php
-$html = HtmlParser::from_string('<div id="outer"><span class="red">Some Text</span></div>');
-$text = $html->find('#outer .red', 0)->text;
-echo $text;   // outputs "Some Text"
-```
+CAPABILITIES MATRIX
+===================
+
+PHP::Interpreter supports both PHP 5.0 and PHP 5.1. In PHP 5.1 you have the
+possibility of instantiating multiple simultaneous PHP interpeters in a
+single process. In PHP 5.0, the PHP interpreter is effectively a singleton.
+
+BUILD INSTRUCTIONS (PHP 5.0.x)
+==============================
+
+1) Download the PHP sources from php.net
+2) tar zxf php-5.0.x.tar.gz
+3) cd php-5.0.x
+4) ./configure --enable-embed [any other options you want]
+5) make
+6) make install
+7) install PHP::Interpreter
+8) ...
+9) profit!
+
+BUILD INSTRUCTIONS (PHP 5.1.x - WITHOUT MULTIPLICITY)
+=====================================================
+
+1) Download the PHP sources from php.net
+2) tar zxf php-5.1.x.tar.gz
+3) cd php-5.1.x
+4) ./configure --enable-embed [any other options you want]
+5) make
+6) make install
+7) install PHP::Interpreter
+8) ...
+9) profit!
+
+BUILD INSTRUCTIONS (PHP 5.1.x - WITH MULTIPLICITY)
+==================================================
+
+1) Download the PHP sources from php.net
+2) tar zxf php-5.1.x.tar.gz
+3) cd php-5.1.x
+4) ./configure --enable-embed --enable-maintainer-zts [any other options you want]
+5) make
+6) make install
+7) install PHP::Interpreter
+8) ...
+9) profit!
+
+HOW TO USE PHP::Interpreter
+===========================
+
+The two best methods are:
+1) perldoc PHP::Interpreter
+2) read the tests in t/*.t
