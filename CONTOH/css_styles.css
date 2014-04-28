@@ -1,5 +1,5 @@
 ===========================
-ini "copas" untuk test saja
+ini "copas" untuk CONTOH saja
 ===========================
 ============================================================================
 source : http://www.script-tutorials.com/how-to-parse-web-pages-using-xpath/
