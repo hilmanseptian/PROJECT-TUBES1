@@ -30,11 +30,11 @@ if (!empty($_GET['error'])) {
         <td>:</td>
         <td><input type="text" name="username" /></td>
     </tr>
-    <tr>
+     <tr>
         <td>Password</td>
         <td>:</td>
         <td><input type="password" name="password" /></td>
-    </tr>
+     </tr>
     <tr align="right">
         <td colspan="3"><input type="submit" name="login" value="Login" /></td>
     </tr>
