@@ -1,5 +1,6 @@
 #Tugas Besar 1 Layanan Web
 
+==
 ###Anggota Kelompok
 
 **`117005135`**  	[Hilman Septian](https://github.com/hilmanseptian)       
@@ -19,7 +20,7 @@
 
 ## Apa itu Github??
 
-**Git Hub adalah layanan yah, kalau dikatakan seperti Facebook, Twitter, dll-NYA Coders dan Developers. Mengapa bisa dikatakan seperti itu?, ya, Di sini anda bisa mengkreasikan hasil Coding atau develop kamu. Kalau dari asalnya, GitHub adalah layanan yang berbasis pada web hosting untuk proyek pengembangan software dengan menggunakan siste kontrol revisi Git. GitHub ini sendiri menawarkan layanan komersial dan juga layanan akun gratis untuk proyek – proyek open source atau bebas. Menurut survei dari para pengguna Git pada tahun 2009, GitHub menjadi situs paling populer dalam kategori Git Hosting**
+**GitHub adalah layanan berbasis web hosting untuk proyek-proyek pengembangan perangkat lunak yang menggunakan sistem kontrol revisi Git. GitHub menawarkan rencana dibayar untuk repositori pribadi, dan akun gratis untuk proyek-proyek open source. Pada Mei 2011, GitHub adalah sumber yang paling populer kode situs repositori terbuka.GitHub juga merupakan tempat terbaik untuk berbagi kode dengan teman-teman, rekan kerja, teman sekelas, dan orang asing. Lebih dari dua juta orang menggunakan GitHub untuk membangun hal-hal menakjubkan bersama-sama.Dengan fitur kolaboratif GitHub.com, desktop dan aplikasi mobile, dan GitHub Enterprise, belum pernah lebih mudah bagi individu dan tim untuk menulis kode yang lebih baik, lebih cepat. Pada awalnya, Git Hub ini didirikan sebagai sebuah proyek untuk menyederhanakan kode berbagi dan dibuat oleh Chris Wanstrath, PJ Hyett dan Tom Preston-Werner, GitHub sendiri telah tumbuh menjadi sebuah aplikasi yang digunakan hampir lebih, bahkan sekarang mungkin sudah lebih dari satu juta orang, dan sudah menyimpan lebih dari dua hingga tiga juta repositori kode, dan membuat GitHub menjadi Home Source atau rumah dari seluruh kode terbesar di dunia.**
 
 ##Yang membedakan Github dari Project hosting yang lain bisa kita lihat di bawah ini
 
