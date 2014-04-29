@@ -6,6 +6,7 @@
 	<MAHASISWA>
 		<NAMA> Hilman Septian </NAMA>
 		<NPM> 117006135 </NPM>
+		<KELAMIN>Laki-laki</KELAMIN>
 		<ALAMAT> Malangbong-Garut </ALAMAT>
 		<KELAS angkatan="2011"> C </KELAS>
 		<AGAMA> islam </AGAMA>
@@ -14,6 +15,7 @@
 	<MAHASISWA>
 		<NAMA> Budi Permana </NAMA>
 		<NPM> 117006103 </NPM>
+		<KELAMIN>Laki-laki</KELAMIN>
 		<ALAMAT> Pataruman-Banjar </ALAMAT>
 		<KELAS angkatan="2011"> C </KELAS>
 		<AGAMA> islam </AGAMA>
@@ -22,6 +24,7 @@
 	<MAHASISWA>
 		<NAMA> Gilang Agtian </NAMA>
 		<NPM> 117006121 </NPM>
+		<KELAMIN>Laki-laki</KELAMIN>
 		<ALAMAT> Kawalu-Tasikmalaya </ALAMAT>
 		<KELAS angkatan="2011"> C </KELAS>
 		<AGAMA> islam </AGAMA>
@@ -30,6 +33,7 @@
 	<MAHASISWA>
 		<NAMA> Hendra Hendrawan </NAMA>
 		<NPM> 117006133 </NPM>
+		<KELAMIN>Laki-laki</KELAMIN>
 		<ALAMAT> Cikoneng-Ciamis </ALAMAT>
 		<KELAS angkatan="2011"> C </KELAS>
 		<AGAMA> islam </AGAMA>
