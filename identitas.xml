@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+
+<!-- Nama File: identitas.xml -->
+
+<ID_KELOMPOK>
+	<MAHASISWA>
+		<NAMA> Hilman Septian </NAMA>
+		<NPM> 117006135 </NPM>
+		<ALAMAT> Malangbong-Garut </ALAMAT>
+		<KELAS angkatan="2011"> C </KELAS>
+	</MAHASISWA>
+	<MAHASISWA>
+		<NAMA> Budi Permana </NAMA>
+		<NPM> 117006103 </NPM>
+		<ALAMAT> Pataruman-Banjar </ALAMAT>
+		<KELAS angkatan="2011"> C </KELAS>
+	</MAHASISWA>
+	<MAHASISWA>
+		<NAMA> Gilang Agtian </NAMA>
+		<NPM> 117006121 </NPM>
+		<ALAMAT> Kawalu-Tasikmalaya </ALAMAT>
+		<KELAS angkatan="2011"> C </KELAS>
+	</MAHASISWA>
+	<MAHASISWA>
+		<NAMA> Hendra Hendrawan </NAMA>
+		<NPM> 117006133 </NPM>
+		<ALAMAT> Cikoneng-Ciamis </ALAMAT>
+		<KELAS angkatan="2011"> C </KELAS>
+	</MAHASISWA>
+</ID_KELOMPOK>
