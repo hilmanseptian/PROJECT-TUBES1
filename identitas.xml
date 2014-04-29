@@ -8,23 +8,27 @@
 		<NPM> 117006135 </NPM>
 		<ALAMAT> Malangbong-Garut </ALAMAT>
 		<KELAS angkatan="2011"> C </KELAS>
+		<AGAMA> islam </AGAMA>
 	</MAHASISWA>
 	<MAHASISWA>
 		<NAMA> Budi Permana </NAMA>
 		<NPM> 117006103 </NPM>
 		<ALAMAT> Pataruman-Banjar </ALAMAT>
 		<KELAS angkatan="2011"> C </KELAS>
+		<AGAMA> islam </AGAMA>
 	</MAHASISWA>
 	<MAHASISWA>
 		<NAMA> Gilang Agtian </NAMA>
 		<NPM> 117006121 </NPM>
 		<ALAMAT> Kawalu-Tasikmalaya </ALAMAT>
 		<KELAS angkatan="2011"> C </KELAS>
+		<AGAMA> islam </AGAMA>
 	</MAHASISWA>
 	<MAHASISWA>
 		<NAMA> Hendra Hendrawan </NAMA>
 		<NPM> 117006133 </NPM>
 		<ALAMAT> Cikoneng-Ciamis </ALAMAT>
 		<KELAS angkatan="2011"> C </KELAS>
+		<AGAMA> islam </AGAMA>
 	</MAHASISWA>
 </ID_KELOMPOK>
