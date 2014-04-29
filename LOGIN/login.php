@@ -7,7 +7,9 @@
 <h1>LOGIN</h1>
  
 <?php
-//kode php ini kita gunakan untuk menampilkan pesan eror
+
+ //"source kode php dibawahna ini kita gunakan untuk menampilkan pesan eror"
+ 
 if (!empty($_GET['error'])) {
     if ($_GET['error'] == 1) {
         echo '<h3>Username dan Password belum diisi!</h3>';
