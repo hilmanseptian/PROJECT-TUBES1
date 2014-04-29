@@ -1,16 +1,12 @@
-==============
-PROJECT-TUBES1
-==============
-
----Tugas Besar 1 Layanan Web---
+####Tugas Besar 1 Layanan Web
 
 ##Anggota Kelompok
 
-**`117005135`**  	[Hilman Septian](https://github.com/hilmanseptian)
-**`117006103`**  	[Budi Permana](https://github.com/budi103)
-**`117006121`**  	[Gilang Agtian](https://github.com/gilang121)
-**`117006133`**  	[Hendra Hendrawan](https://github.com/hendra024)
-
+**`117005135`**  	[Hilman Septian](https://github.com/hilmanseptian)       
+**`117006103`**  	[Budi Permana](https://github.com/budi103)              
+**`117006121`**  	[Gilang Agtian](https://github.com/gilang121)               
+**`117006133`**  	[Hendra Hendrawan](https://github.com/hendra024)               
+          
 
 ==
 ![117006135](https://avatars1.githubusercontent.com/u/7270117?s=140)
