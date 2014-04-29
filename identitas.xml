@@ -9,6 +9,7 @@
 		<ALAMAT> Malangbong-Garut </ALAMAT>
 		<KELAS angkatan="2011"> C </KELAS>
 		<AGAMA> islam </AGAMA>
+		<STATUS> lajang </STATUS>
 	</MAHASISWA>
 	<MAHASISWA>
 		<NAMA> Budi Permana </NAMA>
@@ -16,6 +17,7 @@
 		<ALAMAT> Pataruman-Banjar </ALAMAT>
 		<KELAS angkatan="2011"> C </KELAS>
 		<AGAMA> islam </AGAMA>
+		<STATUS> lajang </STATUS>
 	</MAHASISWA>
 	<MAHASISWA>
 		<NAMA> Gilang Agtian </NAMA>
@@ -23,6 +25,7 @@
 		<ALAMAT> Kawalu-Tasikmalaya </ALAMAT>
 		<KELAS angkatan="2011"> C </KELAS>
 		<AGAMA> islam </AGAMA>
+		<STATUS> in relationship </STATUS>
 	</MAHASISWA>
 	<MAHASISWA>
 		<NAMA> Hendra Hendrawan </NAMA>
@@ -30,5 +33,6 @@
 		<ALAMAT> Cikoneng-Ciamis </ALAMAT>
 		<KELAS angkatan="2011"> C </KELAS>
 		<AGAMA> islam </AGAMA>
+		<STATUS> lajang </STATUS>
 	</MAHASISWA>
 </ID_KELOMPOK>
