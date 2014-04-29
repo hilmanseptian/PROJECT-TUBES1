@@ -1,6 +1,6 @@
-####Tugas Besar 1 Layanan Web
+#Tugas Besar 1 Layanan Web
 
-##Anggota Kelompok
+###Anggota Kelompok
 
 **`117005135`**  	[Hilman Septian](https://github.com/hilmanseptian)       
 **`117006103`**  	[Budi Permana](https://github.com/budi103)              
@@ -8,12 +8,10 @@
 **`117006133`**  	[Hendra Hendrawan](https://github.com/hendra024)               
           
 
-==
 ![117006135](https://avatars1.githubusercontent.com/u/7270117?s=140)
 ![117006103](https://avatars2.githubusercontent.com/u/7203177?s=140)
 ![117006121](https://avatars1.githubusercontent.com/u/7335084?s=140)
 ![117006133](https://avatars2.githubusercontent.com/u/7221904?s=140)
-
 ==
 
 ![](http://chrisawren.com/images/posts/github/front-end-conftocat.png)
