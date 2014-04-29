@@ -5,6 +5,12 @@
  
 <body>
 <h1>Form Input Data</h1>
+
+<?php
+if (!empty($_GET['message']) && $_GET['message'] == 'success') {
+    echo '<h3>Berhasil menambah data!</h3>';
+}
+?>
  
 <form name="input_data" action="insert.php" method="post">
 <table border="0" cellpadding="5" cellspacing="0">
