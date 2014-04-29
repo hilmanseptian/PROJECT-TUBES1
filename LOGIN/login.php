@@ -14,11 +14,11 @@ if (!empty($_GET['error'])) {
     if ($_GET['error'] == 1) {
         echo '<h3>Username dan Password belum diisi!</h3>';
     } else if ($_GET['error'] == 2) {
-        echo '<h3>Username belum diisi!</h3>';
+        echo '<h3>Username harus diisi!</h3>';
     } else if ($_GET['error'] == 3) {
-        echo '<h3>Password belum diisi!</h3>';
+        echo '<h3>Password harus diisi!</h3>';
     } else if ($_GET['error'] == 4) {
-        echo '<h3>Username dan Password tidak terdaftar!</h3>';
+        echo '<h3>Username dan Password Salah atau belum terdaftar!</h3>';
     }
 }
 ?>
