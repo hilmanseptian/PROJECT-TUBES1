@@ -1,16 +1,16 @@
 <html>
-<head>
-<style>
-p.padding
-{
-padding-top:20px;
-padding-bottom:20px;
-padding-right:40px;
-padding-left:40px;
-color:#1E90FF;
-}
-</style>
-</head>
+	<head>
+		<style>
+		p.padding
+			{
+			padding-top:20px;
+			padding-bottom:20px;
+			padding-right:40px;
+			padding-left:40px;
+			color:#1E90FF;
+			}
+		</style>
+	</head>
 <body>
 	  <p align=”center” class="padding">
 	<font type="IMPACT" size=10>
