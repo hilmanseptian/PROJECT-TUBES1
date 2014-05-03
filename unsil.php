@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>UNIVERSITAS SILIWANGI</title>
+<title>UNIVERSITAS SILIWANGI (UNSIL)</title>
 <style>
 p.padding
 {
