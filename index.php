@@ -82,10 +82,10 @@
   </tr>
  <tr bgcolor='#1E90FF'>
   <td colspan='2' bgcolor="#1E90FF"><p align='center'>
-   <font color="white" size=2>
-   Powered by Universitas Siliwangi (UNSIL)</br></font>
-   <font color="white" size=3><b>Designed by Hilman, Budi, Hendra, Gilang</b></font>
-   <font color="white" size=2><br>Copyright &copy;2014</br></td></font>
+   	<font color="white" size=2>
+   	Powered by Universitas Siliwangi (UNSIL)</br></font>
+   	<font color="white" size=3><b>Designed by Hilman, Budi, Hendra, Gilang</b></font>
+   	<font color="white" size=2><br>Copyright &copy;2014</br></td></font>
  </tr>
  </body> 
 </html>
