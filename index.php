@@ -17,10 +17,10 @@ margin-right:80px;
 }
 </style>
 <style>
-a:link {color:#DC6503;}    /* unvisited link */
-a:visited {color:#612915;} /* visited link */
-a:hover {color:#612915;}   /* mouse over link */
-a:active {color:#F9E4C8;}  /* selected link */
+a:link {color:##191970;}    
+a:visited {color:#00008B;} 
+a:hover {color:#00008B;}   
+a:active {color:#4B0082;}  
 </style>
 
     <meta charset="utf-8" />
