@@ -1,17 +1,17 @@
 <html>
-<head>
-<title>ILMU KOMPUTER</title>
-<style>
-p.padding
-{
-padding-top:20px;
-padding-bottom:20px;
-padding-right:40px;
-padding-left:40px;
-color:#18091989;
-}
-</style>
-</head>
+ <head>
+  <title>ILMU KOMPUTER</title>
+   <style>
+     p.padding
+     {
+     padding-top:20px;
+     padding-bottom:20px;
+     padding-right:40px;
+     padding-left:40px;
+     color:#18091989;
+     }
+  </style>
+ </head>
 <body>
 <p class="padding">
 <h1>RSS FEED "ILMU KOMPUTER.COM"</h1>
