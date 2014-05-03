@@ -1,5 +1,5 @@
 <html>
-<head>
+	<head>
 		<title>PROJECT-TUBES1</title>
 		<meta charset="utf-8" />
 		<!--[if IE]><meta http-equiv="ImageToolbar" content="False" /><![endif]-->
@@ -8,11 +8,36 @@
 		<meta name="author" content="Hilman Septian, Budi Permana, Hendra Hendrawan, Gilang Agtian" />
 		<meta name="viewport" content="width=960" />	
 	</head>
+<style>
+body
+{
+background-image:url('background.jpg');
+background-repeat:no-repeat;
+margin-right:80px;
+}
+</style>
+<style>
+a:link {color:#DC6503;}    /* unvisited link */
+a:visited {color:#612915;} /* visited link */
+a:hover {color:#612915;}   /* mouse over link */
+a:active {color:#F9E4C8;}  /* selected link */
+</style>
 
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="jquery-ui.css" />
+    <script src="jquery-1.8.3.js"></script>
+    <script src="jquery-ui.js"></script>
+    <link rel="stylesheet" href="style.css" />
+    <script>
+    $(function() {
+        $( "#menu" ).menu();
+    });
+    </script>
+    <style>
+    .ui-menu { width: 150px; }
+</style>
 </head>
 <body>
-
-
 <table align='center' width='900' border='0'>
    <tr>
        	<td colspan='2' height='200' align='center' valign='midlle' background="header.png"></td>
