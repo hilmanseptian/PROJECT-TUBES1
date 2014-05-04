@@ -18,7 +18,7 @@
 	</font>
 	</br>
 	<font size=5>
-	website ini di buat dengan alasan untuk memenuhi Salah Satu tugas yitu "Tugas Besar 1" mata kuliah Layanan Web</br>
+	Website ini di buat dengan alasan untuk memenuhi salah satu tugas mata kuliah Layanan Web</br>
 	</font>
 	</br>
 	<font type="Times New Roman" size=4>
